@@ -1,6 +1,6 @@
 # 🤖 Flutter AI Chatbot App
 
-A beautifully designed AI chatbot app built with **Flutter**, powered by free or affordable **AI APIs**. Supports Android and iOS.
+A beautifully designed AI chatbot app built with **Flutter**, powered by free or affordable **AI APIs**. Supports Android
 
 ---
 
@@ -58,15 +58,6 @@ A beautifully designed AI chatbot app built with **Flutter**, powered by free or
    ```
    flutter run
 
-
-**📁 Suggested Folder Structure**
-    ```
-    lib/
-├── models/
-├── screens/
-├── services/
-├── widgets/
-└── main.dart
 
 
 **🧪 Development Tips**
